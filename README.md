@@ -4,6 +4,8 @@ A four-quadrant todo matrix that lives in your new tab page. Drag tasks between 
 
 It can be used as an [Eisenhower matrix](https://en.wikipedia.org/wiki/Time_management#Eisenhower_method), or as an [Action Priority Matrix](https://t2informatik.de/en/smartpedia/action-priority-matrix/), or simply just a tool to track your todos in 4 categories.
 
+Available in the [Chrome Web Store for free.](https://chromewebstore.google.com/detail/quadrant-a-quiet-todo-gri/imapponmiioaobmmacfogmjlaoogobjh)
+
 ## Features
 
 - **Four quadrants** - categorize tasks by type (default: Work, University, Personal, Misc)
@@ -36,6 +38,10 @@ Fully customizable - rename quadrants, tint their backgrounds, or change the who
 Completed tasks retire to history - restore or delete them anytime.
 
 ## Installation (Chrome)
+
+Available in the [Chrome Web Store for free.](https://chromewebstore.google.com/detail/quadrant-a-quiet-todo-gri/imapponmiioaobmmacfogmjlaoogobjh)
+
+Or install manually:
 
 1. Run `bun run build` (or `npm run build`), which generates the `dist/` folder
 2. Open Chrome and go to `chrome://extensions`
